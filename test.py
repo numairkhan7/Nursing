@@ -96,3 +96,7 @@ print("\n\n\n")
 #anything lol
 #change change change
 #more changes and more changes
+
+import tensorflow as tf
+import numpy as np
+from tensorflow import keras

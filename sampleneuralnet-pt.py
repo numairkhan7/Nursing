@@ -1,4 +1,4 @@
-#sampleneuralnet PyTorch example
+#sampleneuralnet PyTorch example - numbers changed slightly
 
 import torch
 import torch.nn as nn
